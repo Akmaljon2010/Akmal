@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.{
+    max-width: 120px;
+    width: 100%;
+    margin-inline: auto;
+}
+.d{
+    height: 1024px;
+    background-color: #2A5D5A;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    width:636px;
+    height:116px ;
+    background-color: #311313;
+    margin-left: 20%;
+}
+p{
+    background-color: #1FE8B7;
+}
+
+
